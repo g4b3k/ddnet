@@ -1468,52 +1468,52 @@ Extras
 == Extras
 
 Preparing demo playback
-== 
+== Preparando la reproducción de la demo
 
 Connected
-== 
+== Conectado
 
 Loading map file from storage
 == 
 
 Why are you slowmo replaying to read this?
-== 
+== ¿Por qué estás reproduciendo en cámara lenta para leer esto?
 
 Initializing components
-== 
+== Iniciando los componentes
 
 Initializing assets
-== 
+== Iniciando activos
 
 Initializing map logic
-== 
+== Iniciando la lógica del mapa
 
 Sending initial client info
-== 
+== Enviando la información inicial del cliente
 
 Uploading map data to GPU
-== 
+== Cargando los datos de mapas en la GPU
 
 Getting game info
-== 
+== Obteniendo información del juego
 
 Requesting to join the game
-== 
+== Solicitando el ingreso al juego
 
 Loading menu images
-== 
+== Cargando imágenes del menú
 
 Loading demo files
-== 
+== Cargando archivos del demo
 
 Loading ghost files
-== 
+== Cargando archivos fantasma
 
 Loading skin files
-== 
+== Cargando archivos de skin
 
 Appearance
-== 
+== Apariencia
 
 Name Plate
 == 
